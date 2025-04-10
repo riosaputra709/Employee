@@ -1,0 +1,106 @@
+﻿@{
+
+}
+
+
+<div class="modal fade" id="modalEdit" tabindex="-1" role="dialog" aria-labelledby="basicModal" aria-hidden="true">
+    <div class="modal-dialog modal-md">
+        <div class="modal-content">
+            <!-- Modal Header -->
+            <div class="modal-header">
+                <h4 class="modal-title">Edit Pegawai</h4>
+                <br />
+            </div>
+
+            <!-- Modal Body -->
+            <div class="modal-body">
+                <input type="text" id="txtEditKodePegawai" data-detail="" inert hidden />
+
+                <div class="row">
+                    <div class="col-xs-12 col-sm-6 col-md-12">
+                        <div class="form-group form-group-xs">
+                            <div class="form-group form-group-xs">
+                                <label class="col-xs-8 col-sm-8 col-md-8 control-label text-muted">Nama Pegawai</label>
+                                <div class="col-12">
+                                    <div class="input-group input-group-xs">
+                                        <input class="form-control " id="txtEditNamaPegawai" type="text" />
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-xs-12 col-sm-6 col-md-12">
+                        <div class="form-group form-group-xs">
+                            <div class="form-group form-group-xs">
+                                <label class="col-xs-8 col-sm-8 col-md-8 control-label text-muted">Kode Jabatan</label>
+                                <div class="col-12">
+                                    <div class="input-group input-group-xs">
+                                        <input class="form-control " id="txtEditKodeJabatan" type="text" />
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-xs-12 col-sm-6 col-md-12">
+                        <div class="form-group form-group-xs">
+                            <div class="form-group form-group-xs">
+                                <label class="col-xs-8 col-sm-8 col-md-8 control-label text-muted">Kode Cabang</label>
+                                <div class="col-12">
+                                    <div class="input-group input-group-xs">
+                                        <input class="form-control " id="txtEditKodeCabang" type="text" />
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-xs-12 col-sm-6 col-md-12">
+                        <div class="form-group form-group-xs">
+                            <div class="form-group form-group-xs">
+                                <label class="col-xs-8 col-sm-8 col-md-8 control-label text-muted">Tanggal Awal Kontrak</label>
+                                <div class="col-12">
+                                    <div class="input-group">
+                                        <input type="text" class="form-control" id="txtEditTanggalAwal">
+                                        <div class="input-group-append">
+                                            <span class="input-group-text"><i class="bx bx-calendar"></i></span>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-xs-12 col-sm-6 col-md-12">
+                        <div class="form-group form-group-xs">
+                            <div class="form-group form-group-xs">
+                                <label class="col-xs-8 col-sm-8 col-md-8 control-label text-muted">Tanggal Habis Kontrak</label>
+                                <div class="col-12">
+                                    <div class="input-group">
+                                        <input type="text" class="form-control" id="txtEditTanggalhabis">
+                                        <div class="input-group-append">
+                                            <span class="input-group-text"><i class="bx bx-calendar"></i></span>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <br />
+                <div class="row">
+                    <div class="col-xs-12 text-right">
+                        <button class="btn btn-xs btn-primary" onclick="btnEditSave_onClick()">Save</button>
+                        <button type="button" class="btn btn-xs btn-danger" id="btnCancel" data-bs-dismiss="modal">Cancel</button>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </div><!-- /.modal-content -->
+</div><!-- /.modal-dialog -->

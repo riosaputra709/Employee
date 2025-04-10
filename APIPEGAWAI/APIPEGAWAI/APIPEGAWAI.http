@@ -1,0 +1,6 @@
+@APIPEGAWAI_HostAddress = http://localhost:5193
+
+GET {{APIPEGAWAI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

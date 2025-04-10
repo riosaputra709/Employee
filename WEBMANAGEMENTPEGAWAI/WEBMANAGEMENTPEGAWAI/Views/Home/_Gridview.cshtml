@@ -1,0 +1,52 @@
+﻿@model WEBMANAGEMENTPEGAWAI.Models.PegawaiModel
+@{
+    List<PegawaiModel> pegawais = (List<PegawaiModel>)ViewData["pegawais"];
+    Layout = null;
+}
+
+<table id="myTable" class="table" style="margin-top:20px;">
+    <thead>
+        <tr>
+            <th scope="col">Kode Pegawai</th>
+            <th scope="col">Nama Pegawai</th>
+            <th scope="col">Kode Jabatan</th>
+            <th scope="col">Kode Cabang</th>
+            <th scope="col">Tanggal Mulai Kontrak</th>
+            <th scope="col">Tanggal Habis Kontrak</th>
+            <th scope="col">Status</th>  <!-- Menambahkan kolom Status -->
+            <th scope="col">Action</th>
+        </tr>
+    </thead>
+    <tbody>
+        @if (pegawais != null)
+        {
+            if (pegawais.Count != 0)
+            {
+                @for (int i = 0; i < pegawais.Count; i++)
+                {
+                    // Menentukan warna teks berdasarkan status
+                    var statusClass = pegawais[i].Status == "Non Aktif" ? "text-danger" : "";
+                    <tr>
+                        <td>@pegawais[i].KodePegawai</td>
+                        <td>@pegawais[i].NamaPegawai</td>
+                        <td>@pegawais[i].KodeJabatan</td>
+                        <td>@pegawais[i].KodeCabang</td>
+                        <td>@pegawais[i].TanggalMulaiKontrak</td>
+                        <td>@pegawais[i].TanggalHabisKontrak</td>
+                        <td class="@statusClass">@pegawais[i].Status</td>
+                        <td>
+                            <a class="btn btn-warning btn-sm" onclick="onEdit_onClick('@pegawais[i].KodePegawai')"><i class='bx bx-edit-alt'></i>Edit</a>
+                            <a class="btn btn-danger btn-sm" onclick="onDelete_onClick('@pegawais[i].KodePegawai')"><i class='bx bxs-trash-alt'></i>Delete</a>
+                        </td>
+                    </tr>
+                }
+            }
+            else
+            {
+                <tr>
+                    <td colspan="8" class="text-center" id="empty">No Data</td>
+                </tr>
+            }
+        }
+    </tbody>
+</table>
