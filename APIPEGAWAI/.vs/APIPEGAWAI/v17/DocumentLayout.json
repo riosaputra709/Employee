@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\riosa\\source\\repos\\BNITES\\EmployeeManagement\\APIPEGAWAI\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{37C07106-534E-4195-B4B3-8DA377671BB0}|APIPEGAWAI\\APIPEGAWAI.csproj|c:\\users\\riosa\\source\\repos\\bnites\\employeemanagement\\apipegawai\\apipegawai\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37C07106-534E-4195-B4B3-8DA377671BB0}|APIPEGAWAI\\APIPEGAWAI.csproj|solutionrelative:apipegawai\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{37C07106-534E-4195-B4B3-8DA377671BB0}|APIPEGAWAI\\APIPEGAWAI.csproj|c:\\users\\riosa\\source\\repos\\bnites\\employeemanagement\\apipegawai\\apipegawai\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{37C07106-534E-4195-B4B3-8DA377671BB0}|APIPEGAWAI\\APIPEGAWAI.csproj|solutionrelative:apipegawai\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -46,11 +50,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "EmployeeController.cs",
               "DocumentMoniker": "C:\\Users\\riosa\\source\\repos\\BNITES\\EmployeeManagement\\APIPEGAWAI\\APIPEGAWAI\\Controllers\\EmployeeController.cs",
               "RelativeDocumentMoniker": "APIPEGAWAI\\Controllers\\EmployeeController.cs",
@@ -64,7 +68,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "IPegawaiService.cs",
               "DocumentMoniker": "C:\\Users\\riosa\\source\\repos\\BNITES\\EmployeeManagement\\APIPEGAWAI\\APIPEGAWAI\\Services\\IPegawaiService.cs",
               "RelativeDocumentMoniker": "APIPEGAWAI\\Services\\IPegawaiService.cs",
@@ -77,7 +81,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "PegawaiService.cs",
               "DocumentMoniker": "C:\\Users\\riosa\\source\\repos\\BNITES\\EmployeeManagement\\APIPEGAWAI\\APIPEGAWAI\\Services\\PegawaiService.cs",
               "RelativeDocumentMoniker": "APIPEGAWAI\\Services\\PegawaiService.cs",
@@ -90,7 +94,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\riosa\\source\\repos\\BNITES\\EmployeeManagement\\APIPEGAWAI\\APIPEGAWAI\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "APIPEGAWAI\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\riosa\\source\\repos\\BNITES\\EmployeeManagement\\APIPEGAWAI\\APIPEGAWAI\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "APIPEGAWAI\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T03:34:12.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\riosa\\source\\repos\\BNITES\\EmployeeManagement\\APIPEGAWAI\\APIPEGAWAI\\Program.cs",
               "RelativeDocumentMoniker": "APIPEGAWAI\\Program.cs",
@@ -102,7 +119,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\Users\\riosa\\source\\repos\\BNITES\\EmployeeManagement\\APIPEGAWAI\\APIPEGAWAI\\Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "APIPEGAWAI\\Data\\AppDbContext.cs",
@@ -114,7 +131,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "PegawaiDetailDto.cs",
               "DocumentMoniker": "C:\\Users\\riosa\\source\\repos\\BNITES\\EmployeeManagement\\APIPEGAWAI\\APIPEGAWAI\\Models\\PegawaiDetailDto.cs",
               "RelativeDocumentMoniker": "APIPEGAWAI\\Models\\PegawaiDetailDto.cs",
@@ -127,7 +144,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Pegawai.cs",
               "DocumentMoniker": "C:\\Users\\riosa\\source\\repos\\BNITES\\EmployeeManagement\\APIPEGAWAI\\APIPEGAWAI\\Models\\Pegawai.cs",
               "RelativeDocumentMoniker": "APIPEGAWAI\\Models\\Pegawai.cs",
@@ -140,7 +157,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Jabatan.cs",
               "DocumentMoniker": "C:\\Users\\riosa\\source\\repos\\BNITES\\EmployeeManagement\\APIPEGAWAI\\APIPEGAWAI\\Models\\Jabatan.cs",
               "RelativeDocumentMoniker": "APIPEGAWAI\\Models\\Jabatan.cs",
@@ -153,7 +170,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Cabang.cs",
               "DocumentMoniker": "C:\\Users\\riosa\\source\\repos\\BNITES\\EmployeeManagement\\APIPEGAWAI\\APIPEGAWAI\\Models\\Cabang.cs",
               "RelativeDocumentMoniker": "APIPEGAWAI\\Models\\Cabang.cs",

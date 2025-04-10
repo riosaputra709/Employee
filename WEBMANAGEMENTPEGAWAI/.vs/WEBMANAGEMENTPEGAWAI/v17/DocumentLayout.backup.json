@@ -1,33 +1,33 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\riosa\\source\\repos\\BNITES\\WEBMANAGEMENTPEGAWAI\\",
+  "WorkspaceRootPath": "C:\\Users\\riosa\\source\\repos\\BNITES\\EmployeeManagement\\WEBMANAGEMENTPEGAWAI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1705BF9B-6CD4-446D-9315-A7E734335966}|WEBMANAGEMENTPEGAWAI\\WEBMANAGEMENTPEGAWAI.csproj|c:\\users\\riosa\\source\\repos\\bnites\\webmanagementpegawai\\webmanagementpegawai\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{1705BF9B-6CD4-446D-9315-A7E734335966}|WEBMANAGEMENTPEGAWAI\\WEBMANAGEMENTPEGAWAI.csproj|c:\\users\\riosa\\source\\repos\\bnites\\employeemanagement\\webmanagementpegawai\\webmanagementpegawai\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{1705BF9B-6CD4-446D-9315-A7E734335966}|WEBMANAGEMENTPEGAWAI\\WEBMANAGEMENTPEGAWAI.csproj|solutionrelative:webmanagementpegawai\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1705BF9B-6CD4-446D-9315-A7E734335966}|WEBMANAGEMENTPEGAWAI\\WEBMANAGEMENTPEGAWAI.csproj|c:\\users\\riosa\\source\\repos\\bnites\\webmanagementpegawai\\webmanagementpegawai\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1705BF9B-6CD4-446D-9315-A7E734335966}|WEBMANAGEMENTPEGAWAI\\WEBMANAGEMENTPEGAWAI.csproj|c:\\users\\riosa\\source\\repos\\bnites\\employeemanagement\\webmanagementpegawai\\webmanagementpegawai\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1705BF9B-6CD4-446D-9315-A7E734335966}|WEBMANAGEMENTPEGAWAI\\WEBMANAGEMENTPEGAWAI.csproj|solutionrelative:webmanagementpegawai\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1705BF9B-6CD4-446D-9315-A7E734335966}|WEBMANAGEMENTPEGAWAI\\WEBMANAGEMENTPEGAWAI.csproj|c:\\users\\riosa\\source\\repos\\bnites\\webmanagementpegawai\\webmanagementpegawai\\views\\home\\_modaledit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{1705BF9B-6CD4-446D-9315-A7E734335966}|WEBMANAGEMENTPEGAWAI\\WEBMANAGEMENTPEGAWAI.csproj|c:\\users\\riosa\\source\\repos\\bnites\\employeemanagement\\webmanagementpegawai\\webmanagementpegawai\\views\\home\\_modaledit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{1705BF9B-6CD4-446D-9315-A7E734335966}|WEBMANAGEMENTPEGAWAI\\WEBMANAGEMENTPEGAWAI.csproj|solutionrelative:webmanagementpegawai\\views\\home\\_modaledit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1705BF9B-6CD4-446D-9315-A7E734335966}|WEBMANAGEMENTPEGAWAI\\WEBMANAGEMENTPEGAWAI.csproj|c:\\users\\riosa\\source\\repos\\bnites\\webmanagementpegawai\\webmanagementpegawai\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{1705BF9B-6CD4-446D-9315-A7E734335966}|WEBMANAGEMENTPEGAWAI\\WEBMANAGEMENTPEGAWAI.csproj|c:\\users\\riosa\\source\\repos\\bnites\\employeemanagement\\webmanagementpegawai\\webmanagementpegawai\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{1705BF9B-6CD4-446D-9315-A7E734335966}|WEBMANAGEMENTPEGAWAI\\WEBMANAGEMENTPEGAWAI.csproj|solutionrelative:webmanagementpegawai\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1705BF9B-6CD4-446D-9315-A7E734335966}|WEBMANAGEMENTPEGAWAI\\WEBMANAGEMENTPEGAWAI.csproj|c:\\users\\riosa\\source\\repos\\bnites\\webmanagementpegawai\\webmanagementpegawai\\models\\pegawaimodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1705BF9B-6CD4-446D-9315-A7E734335966}|WEBMANAGEMENTPEGAWAI\\WEBMANAGEMENTPEGAWAI.csproj|c:\\users\\riosa\\source\\repos\\bnites\\employeemanagement\\webmanagementpegawai\\webmanagementpegawai\\models\\pegawaimodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1705BF9B-6CD4-446D-9315-A7E734335966}|WEBMANAGEMENTPEGAWAI\\WEBMANAGEMENTPEGAWAI.csproj|solutionrelative:webmanagementpegawai\\models\\pegawaimodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1705BF9B-6CD4-446D-9315-A7E734335966}|WEBMANAGEMENTPEGAWAI\\WEBMANAGEMENTPEGAWAI.csproj|c:\\users\\riosa\\source\\repos\\bnites\\webmanagementpegawai\\webmanagementpegawai\\views\\home\\_gridview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{1705BF9B-6CD4-446D-9315-A7E734335966}|WEBMANAGEMENTPEGAWAI\\WEBMANAGEMENTPEGAWAI.csproj|c:\\users\\riosa\\source\\repos\\bnites\\employeemanagement\\webmanagementpegawai\\webmanagementpegawai\\views\\home\\_gridview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{1705BF9B-6CD4-446D-9315-A7E734335966}|WEBMANAGEMENTPEGAWAI\\WEBMANAGEMENTPEGAWAI.csproj|solutionrelative:webmanagementpegawai\\views\\home\\_gridview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1705BF9B-6CD4-446D-9315-A7E734335966}|WEBMANAGEMENTPEGAWAI\\WEBMANAGEMENTPEGAWAI.csproj|c:\\users\\riosa\\source\\repos\\bnites\\webmanagementpegawai\\webmanagementpegawai\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1705BF9B-6CD4-446D-9315-A7E734335966}|WEBMANAGEMENTPEGAWAI\\WEBMANAGEMENTPEGAWAI.csproj|c:\\users\\riosa\\source\\repos\\bnites\\employeemanagement\\webmanagementpegawai\\webmanagementpegawai\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1705BF9B-6CD4-446D-9315-A7E734335966}|WEBMANAGEMENTPEGAWAI\\WEBMANAGEMENTPEGAWAI.csproj|solutionrelative:webmanagementpegawai\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -44,23 +44,22 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\riosa\\source\\repos\\BNITES\\WEBMANAGEMENTPEGAWAI\\WEBMANAGEMENTPEGAWAI\\Controllers\\HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\riosa\\source\\repos\\BNITES\\EmployeeManagement\\WEBMANAGEMENTPEGAWAI\\WEBMANAGEMENTPEGAWAI\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "WEBMANAGEMENTPEGAWAI\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\riosa\\source\\repos\\BNITES\\WEBMANAGEMENTPEGAWAI\\WEBMANAGEMENTPEGAWAI\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\riosa\\source\\repos\\BNITES\\EmployeeManagement\\WEBMANAGEMENTPEGAWAI\\WEBMANAGEMENTPEGAWAI\\Controllers\\HomeController.cs",
               "RelativeToolTip": "WEBMANAGEMENTPEGAWAI\\Controllers\\HomeController.cs",
               "ViewState": "AgIAAHwAAAAAAAAAAAAAAIYAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-09T12:14:58.811Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\riosa\\source\\repos\\BNITES\\WEBMANAGEMENTPEGAWAI\\WEBMANAGEMENTPEGAWAI\\Views\\Home\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\riosa\\source\\repos\\BNITES\\EmployeeManagement\\WEBMANAGEMENTPEGAWAI\\WEBMANAGEMENTPEGAWAI\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "WEBMANAGEMENTPEGAWAI\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\riosa\\source\\repos\\BNITES\\WEBMANAGEMENTPEGAWAI\\WEBMANAGEMENTPEGAWAI\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\riosa\\source\\repos\\BNITES\\EmployeeManagement\\WEBMANAGEMENTPEGAWAI\\WEBMANAGEMENTPEGAWAI\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "WEBMANAGEMENTPEGAWAI\\Views\\Home\\Index.cshtml",
               "ViewState": "AgIAAKcAAAAAAAAAAAAAALkAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -72,35 +71,33 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "_ModalEdit.cshtml",
-              "DocumentMoniker": "C:\\Users\\riosa\\source\\repos\\BNITES\\WEBMANAGEMENTPEGAWAI\\WEBMANAGEMENTPEGAWAI\\Views\\Home\\_ModalEdit.cshtml",
+              "DocumentMoniker": "C:\\Users\\riosa\\source\\repos\\BNITES\\EmployeeManagement\\WEBMANAGEMENTPEGAWAI\\WEBMANAGEMENTPEGAWAI\\Views\\Home\\_ModalEdit.cshtml",
               "RelativeDocumentMoniker": "WEBMANAGEMENTPEGAWAI\\Views\\Home\\_ModalEdit.cshtml",
-              "ToolTip": "C:\\Users\\riosa\\source\\repos\\BNITES\\WEBMANAGEMENTPEGAWAI\\WEBMANAGEMENTPEGAWAI\\Views\\Home\\_ModalEdit.cshtml",
+              "ToolTip": "C:\\Users\\riosa\\source\\repos\\BNITES\\EmployeeManagement\\WEBMANAGEMENTPEGAWAI\\WEBMANAGEMENTPEGAWAI\\Views\\Home\\_ModalEdit.cshtml",
               "RelativeToolTip": "WEBMANAGEMENTPEGAWAI\\Views\\Home\\_ModalEdit.cshtml",
               "ViewState": "AgIAAD0AAAAAAAAAAAAAAGEAAABLAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-09T17:09:00.652Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-09T17:09:00.652Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\riosa\\source\\repos\\BNITES\\WEBMANAGEMENTPEGAWAI\\WEBMANAGEMENTPEGAWAI\\Views\\Shared\\_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\riosa\\source\\repos\\BNITES\\EmployeeManagement\\WEBMANAGEMENTPEGAWAI\\WEBMANAGEMENTPEGAWAI\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "WEBMANAGEMENTPEGAWAI\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\riosa\\source\\repos\\BNITES\\WEBMANAGEMENTPEGAWAI\\WEBMANAGEMENTPEGAWAI\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\riosa\\source\\repos\\BNITES\\EmployeeManagement\\WEBMANAGEMENTPEGAWAI\\WEBMANAGEMENTPEGAWAI\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "WEBMANAGEMENTPEGAWAI\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAABsAAAAAAAAAAAAAACYAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-09T16:09:32.453Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-09T16:09:32.453Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\riosa\\source\\repos\\BNITES\\WEBMANAGEMENTPEGAWAI\\WEBMANAGEMENTPEGAWAI\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\riosa\\source\\repos\\BNITES\\EmployeeManagement\\WEBMANAGEMENTPEGAWAI\\WEBMANAGEMENTPEGAWAI\\Program.cs",
               "RelativeDocumentMoniker": "WEBMANAGEMENTPEGAWAI\\Program.cs",
-              "ToolTip": "C:\\Users\\riosa\\source\\repos\\BNITES\\WEBMANAGEMENTPEGAWAI\\WEBMANAGEMENTPEGAWAI\\Program.cs",
+              "ToolTip": "C:\\Users\\riosa\\source\\repos\\BNITES\\EmployeeManagement\\WEBMANAGEMENTPEGAWAI\\WEBMANAGEMENTPEGAWAI\\Program.cs",
               "RelativeToolTip": "WEBMANAGEMENTPEGAWAI\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -110,22 +107,21 @@
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "PegawaiModel.cs",
-              "DocumentMoniker": "C:\\Users\\riosa\\source\\repos\\BNITES\\WEBMANAGEMENTPEGAWAI\\WEBMANAGEMENTPEGAWAI\\Models\\PegawaiModel.cs",
+              "DocumentMoniker": "C:\\Users\\riosa\\source\\repos\\BNITES\\EmployeeManagement\\WEBMANAGEMENTPEGAWAI\\WEBMANAGEMENTPEGAWAI\\Models\\PegawaiModel.cs",
               "RelativeDocumentMoniker": "WEBMANAGEMENTPEGAWAI\\Models\\PegawaiModel.cs",
-              "ToolTip": "C:\\Users\\riosa\\source\\repos\\BNITES\\WEBMANAGEMENTPEGAWAI\\WEBMANAGEMENTPEGAWAI\\Models\\PegawaiModel.cs",
+              "ToolTip": "C:\\Users\\riosa\\source\\repos\\BNITES\\EmployeeManagement\\WEBMANAGEMENTPEGAWAI\\WEBMANAGEMENTPEGAWAI\\Models\\PegawaiModel.cs",
               "RelativeToolTip": "WEBMANAGEMENTPEGAWAI\\Models\\PegawaiModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-09T13:43:10.598Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-09T13:43:10.598Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "_Gridview.cshtml",
-              "DocumentMoniker": "C:\\Users\\riosa\\source\\repos\\BNITES\\WEBMANAGEMENTPEGAWAI\\WEBMANAGEMENTPEGAWAI\\Views\\Home\\_Gridview.cshtml",
+              "DocumentMoniker": "C:\\Users\\riosa\\source\\repos\\BNITES\\EmployeeManagement\\WEBMANAGEMENTPEGAWAI\\WEBMANAGEMENTPEGAWAI\\Views\\Home\\_Gridview.cshtml",
               "RelativeDocumentMoniker": "WEBMANAGEMENTPEGAWAI\\Views\\Home\\_Gridview.cshtml",
-              "ToolTip": "C:\\Users\\riosa\\source\\repos\\BNITES\\WEBMANAGEMENTPEGAWAI\\WEBMANAGEMENTPEGAWAI\\Views\\Home\\_Gridview.cshtml",
+              "ToolTip": "C:\\Users\\riosa\\source\\repos\\BNITES\\EmployeeManagement\\WEBMANAGEMENTPEGAWAI\\WEBMANAGEMENTPEGAWAI\\Views\\Home\\_Gridview.cshtml",
               "RelativeToolTip": "WEBMANAGEMENTPEGAWAI\\Views\\Home\\_Gridview.cshtml",
               "ViewState": "AgIAABUAAAAAAAAAAAAcwCYAAABWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
