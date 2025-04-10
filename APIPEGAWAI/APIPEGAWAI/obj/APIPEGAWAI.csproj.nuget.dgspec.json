@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\riosa\\source\\repos\\BNITES\\APIPEGAWAI\\APIPEGAWAI\\APIPEGAWAI.csproj": {}
+    "C:\\Users\\riosa\\source\\repos\\BNITES\\EmployeeManagement\\APIPEGAWAI\\APIPEGAWAI\\APIPEGAWAI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\riosa\\source\\repos\\BNITES\\APIPEGAWAI\\APIPEGAWAI\\APIPEGAWAI.csproj": {
+    "C:\\Users\\riosa\\source\\repos\\BNITES\\EmployeeManagement\\APIPEGAWAI\\APIPEGAWAI\\APIPEGAWAI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\riosa\\source\\repos\\BNITES\\APIPEGAWAI\\APIPEGAWAI\\APIPEGAWAI.csproj",
+        "projectUniqueName": "C:\\Users\\riosa\\source\\repos\\BNITES\\EmployeeManagement\\APIPEGAWAI\\APIPEGAWAI\\APIPEGAWAI.csproj",
         "projectName": "APIPEGAWAI",
-        "projectPath": "C:\\Users\\riosa\\source\\repos\\BNITES\\APIPEGAWAI\\APIPEGAWAI\\APIPEGAWAI.csproj",
+        "projectPath": "C:\\Users\\riosa\\source\\repos\\BNITES\\EmployeeManagement\\APIPEGAWAI\\APIPEGAWAI\\APIPEGAWAI.csproj",
         "packagesPath": "C:\\Users\\riosa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\riosa\\source\\repos\\BNITES\\APIPEGAWAI\\APIPEGAWAI\\obj\\",
+        "outputPath": "C:\\Users\\riosa\\source\\repos\\BNITES\\EmployeeManagement\\APIPEGAWAI\\APIPEGAWAI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("APIPEGAWAI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a311f60a5cc158636a7d9da51e89745bf3f37f52")]
 [assembly: System.Reflection.AssemblyProductAttribute("APIPEGAWAI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("APIPEGAWAI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

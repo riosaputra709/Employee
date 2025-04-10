@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Mtf2ithawTU=",
+  "dgSpecHash": "a45LygZGHvg=",
   "success": true,
-  "projectFilePath": "C:\\Users\\riosa\\source\\repos\\BNITES\\APIPEGAWAI\\APIPEGAWAI\\APIPEGAWAI.csproj",
+  "projectFilePath": "C:\\Users\\riosa\\source\\repos\\BNITES\\EmployeeManagement\\APIPEGAWAI\\APIPEGAWAI\\APIPEGAWAI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\riosa\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\riosa\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",
