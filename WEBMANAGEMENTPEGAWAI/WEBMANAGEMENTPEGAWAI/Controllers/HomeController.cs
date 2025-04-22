@@ -32,6 +32,9 @@ namespace WEBMANAGEMENTPEGAWAI.Controllers
             HttpResponseMessage response;
             string url = _apiUrl + "GetPegawaiDetailsSP?name=";
 
+            if (name != null)
+                url += name;
+
             if (tglAwal != null)
                 url += "&tanggalAwal=" + tglAwal.Value.ToString("yyyy-MM-dd");
 
