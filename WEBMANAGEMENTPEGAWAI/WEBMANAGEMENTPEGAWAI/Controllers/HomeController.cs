@@ -22,7 +22,14 @@ namespace WEBMANAGEMENTPEGAWAI.Controllers
 
         public async Task<IActionResult> Index()
         {
-            await doSearch(null, null, null);
+            try
+            {
+                await doSearch(null, null, null);
+            }
+            catch (Exception ex) 
+            {
+                TempData["Error"] = ex.Message;
+            }            
             return View();
         }
 
