@@ -9,8 +9,6 @@ namespace APIPEGAWAI.Data
         {
         }
 
-        public DbSet<PegawaiDetailDto> PegawaiDetailDtos { get; set; }
-
         public DbSet<Cabang> Cabangs { get; set; }
         public DbSet<Jabatan> Jabatans { get; set; }
         public DbSet<Pegawai> Pegawais { get; set; }
@@ -25,7 +23,18 @@ namespace APIPEGAWAI.Data
 
             modelBuilder.Entity<Pegawai>().HasKey(p => p.KodePegawai);
 
-            modelBuilder.Entity<PegawaiDetailDto>().HasNoKey();
+
+            modelBuilder.Entity<Pegawai>()
+        .HasOne(p => p.Cabang)
+        .WithMany(c => c.Pegawais)
+        .HasForeignKey(p => p.KodeCabang)
+        .OnDelete(DeleteBehavior.Restrict);
+
+            modelBuilder.Entity<Pegawai>()
+                .HasOne(p => p.Jabatan)
+                .WithMany(j => j.Pegawais)
+                .HasForeignKey(p => p.KodeJabatan)
+                .OnDelete(DeleteBehavior.Restrict);
         }
     }
 }

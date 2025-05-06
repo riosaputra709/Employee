@@ -300,3 +300,4 @@ C:\Users\riosa\source\repos\BNITES\EmployeeManagement\APIPEGAWAI\APIPEGAWAI\obj\
 C:\Users\riosa\source\repos\BNITES\EmployeeManagement\APIPEGAWAI\APIPEGAWAI\obj\Debug\net8.0\APIPEGAWAI.pdb
 C:\Users\riosa\source\repos\BNITES\EmployeeManagement\APIPEGAWAI\APIPEGAWAI\obj\Debug\net8.0\APIPEGAWAI.genruntimeconfig.cache
 C:\Users\riosa\source\repos\BNITES\EmployeeManagement\APIPEGAWAI\APIPEGAWAI\obj\Debug\net8.0\ref\APIPEGAWAI.dll
+C:\Users\riosa\source\repos\BNITES\EmployeeManagement\APIPEGAWAI\APIPEGAWAI\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt

@@ -2,6 +2,7 @@
 using APIPEGAWAI.Models;
 using Microsoft.EntityFrameworkCore;
 using OfficeOpenXml;
+using System.Data;
 
 namespace APIPEGAWAI.Services
 {
@@ -16,16 +17,14 @@ namespace APIPEGAWAI.Services
         public async Task<IEnumerable<PegawaiDetailDto>> GetAllPegawaiEF()
         {
             var result = await (from p in _context.Pegawais
-                                join c in _context.Cabangs on p.KodeCabang equals c.KodeCabang
-                                join j in _context.Jabatans on p.KodeJabatan equals j.KodeJabatan
                                 select new PegawaiDetailDto
                                 {
                                     KodePegawai = p.KodePegawai,
                                     NamaPegawai = p.NamaPegawai,
-                                    KodeCabang = c.KodeCabang,
-                                    NamaCabang = c.NamaCabang,
-                                    KodeJabatan = j.KodeJabatan,
-                                    NamaJabatan = j.NamaJabatan,
+                                    KodeCabang = p.Cabang.KodeCabang,
+                                    NamaCabang = p.Cabang.NamaCabang,
+                                    KodeJabatan = p.Jabatan.KodeJabatan,
+                                    NamaJabatan = p.Jabatan.NamaJabatan,
                                     TanggalMulaiKontrak = p.TanggalMulaiKontrak,
                                     TanggalHabisKontrak = p.TanggalHabisKontrak
                                 }).ToListAsync();
@@ -34,16 +33,56 @@ namespace APIPEGAWAI.Services
 
         public async Task<IEnumerable<PegawaiDetailDto>> GetAllPegawaiSP(string? nama, DateTime? tanggalAwal, DateTime? tanggalAkhir)
         {
-            // Menggunakan FromSqlRaw dengan parameter untuk menjalankan stored procedure
-            var result = await _context.PegawaiDetailDtos
-                .FromSqlRaw("EXEC GetPegawaiDetails @nama = {0}, @tanggalAwal = {1}, @tanggalAkhir = {2}",
-                    nama ?? (object)DBNull.Value,
-                    tanggalAwal ?? (object)DBNull.Value,
-                    tanggalAkhir ?? (object)DBNull.Value)
-                .ToListAsync();
+            var result = new List<PegawaiDetailDto>();
+
+            using (var connection = _context.Database.GetDbConnection())
+            {
+                await connection.OpenAsync();
+
+                using (var command = connection.CreateCommand())
+                {
+                    command.CommandText = "GetPegawaiDetails";
+                    command.CommandType = CommandType.StoredProcedure;
+
+                    var paramNama = command.CreateParameter();
+                    paramNama.ParameterName = "@nama";
+                    paramNama.Value = (object?)nama ?? DBNull.Value;
+                    command.Parameters.Add(paramNama);
+
+                    var paramAwal = command.CreateParameter();
+                    paramAwal.ParameterName = "@tanggalAwal";
+                    paramAwal.Value = (object?)tanggalAwal ?? DBNull.Value;
+                    command.Parameters.Add(paramAwal);
+
+                    var paramAkhir = command.CreateParameter();
+                    paramAkhir.ParameterName = "@tanggalAkhir";
+                    paramAkhir.Value = (object?)tanggalAkhir ?? DBNull.Value;
+                    command.Parameters.Add(paramAkhir);
+
+                    using (var reader = await command.ExecuteReaderAsync())
+                    {
+                        while (await reader.ReadAsync())
+                        {
+                            result.Add(new PegawaiDetailDto
+                            {
+                                KodePegawai = reader["KodePegawai"].ToString(),
+                                NamaPegawai = reader["NamaPegawai"].ToString(),
+                                KodeCabang = reader["KodeCabang"].ToString(),
+                                NamaCabang = reader["NamaCabang"].ToString(),
+                                KodeJabatan = reader["KodeJabatan"].ToString(),
+                                NamaJabatan = reader["NamaJabatan"].ToString(),
+                                Status = reader["Status"].ToString(),
+                                TanggalMulaiKontrak = Convert.ToDateTime(reader["TanggalMulaiKontrak"]),
+                                TanggalHabisKontrak = Convert.ToDateTime(reader["TanggalHabisKontrak"]),
+                            });
+                        }
+                    }
+                }
+            }
 
             return result;
         }
+
 
 
         public async Task<string> UploadDataPegawai(IFormFile file)

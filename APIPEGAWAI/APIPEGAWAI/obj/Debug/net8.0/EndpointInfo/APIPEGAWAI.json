@@ -308,6 +308,48 @@
   },
   "components": {
     "schemas": {
+      "Cabang": {
+        "type": "object",
+        "properties": {
+          "kodeCabang": {
+            "type": "string",
+            "nullable": true
+          },
+          "namaCabang": {
+            "type": "string",
+            "nullable": true
+          },
+          "pegawais": {
+            "type": "array",
+            "items": {
+              "$ref": "#/components/schemas/Pegawai"
+            },
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "Jabatan": {
+        "type": "object",
+        "properties": {
+          "kodeJabatan": {
+            "type": "string",
+            "nullable": true
+          },
+          "namaJabatan": {
+            "type": "string",
+            "nullable": true
+          },
+          "pegawais": {
+            "type": "array",
+            "items": {
+              "$ref": "#/components/schemas/Pegawai"
+            },
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
       "Pegawai": {
         "type": "object",
         "properties": {
@@ -334,6 +376,12 @@
           "kodeJabatan": {
             "type": "string",
             "nullable": true
+          },
+          "cabang": {
+            "$ref": "#/components/schemas/Cabang"
+          },
+          "jabatan": {
+            "$ref": "#/components/schemas/Jabatan"
           }
         },
         "additionalProperties": false

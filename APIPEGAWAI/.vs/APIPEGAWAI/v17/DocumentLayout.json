@@ -3,44 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\riosa\\source\\repos\\BNITES\\EmployeeManagement\\APIPEGAWAI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{37C07106-534E-4195-B4B3-8DA377671BB0}|APIPEGAWAI\\APIPEGAWAI.csproj|c:\\users\\riosa\\source\\repos\\bnites\\employeemanagement\\apipegawai\\apipegawai\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{37C07106-534E-4195-B4B3-8DA377671BB0}|APIPEGAWAI\\APIPEGAWAI.csproj|solutionrelative:apipegawai\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{37C07106-534E-4195-B4B3-8DA377671BB0}|APIPEGAWAI\\APIPEGAWAI.csproj|c:\\users\\riosa\\source\\repos\\bnites\\employeemanagement\\apipegawai\\apipegawai\\services\\pegawaiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37C07106-534E-4195-B4B3-8DA377671BB0}|APIPEGAWAI\\APIPEGAWAI.csproj|solutionrelative:apipegawai\\services\\pegawaiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{37C07106-534E-4195-B4B3-8DA377671BB0}|APIPEGAWAI\\APIPEGAWAI.csproj|c:\\users\\riosa\\source\\repos\\bnites\\employeemanagement\\apipegawai\\apipegawai\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{37C07106-534E-4195-B4B3-8DA377671BB0}|APIPEGAWAI\\APIPEGAWAI.csproj|solutionrelative:apipegawai\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{37C07106-534E-4195-B4B3-8DA377671BB0}|APIPEGAWAI\\APIPEGAWAI.csproj|c:\\users\\riosa\\source\\repos\\bnites\\employeemanagement\\apipegawai\\apipegawai\\services\\pegawaiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{37C07106-534E-4195-B4B3-8DA377671BB0}|APIPEGAWAI\\APIPEGAWAI.csproj|solutionrelative:apipegawai\\services\\pegawaiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{37C07106-534E-4195-B4B3-8DA377671BB0}|APIPEGAWAI\\APIPEGAWAI.csproj|c:\\users\\riosa\\source\\repos\\bnites\\employeemanagement\\apipegawai\\apipegawai\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37C07106-534E-4195-B4B3-8DA377671BB0}|APIPEGAWAI\\APIPEGAWAI.csproj|solutionrelative:apipegawai\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{37C07106-534E-4195-B4B3-8DA377671BB0}|APIPEGAWAI\\APIPEGAWAI.csproj|c:\\users\\riosa\\source\\repos\\bnites\\employeemanagement\\apipegawai\\apipegawai\\services\\ipegawaiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{37C07106-534E-4195-B4B3-8DA377671BB0}|APIPEGAWAI\\APIPEGAWAI.csproj|solutionrelative:apipegawai\\services\\ipegawaiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{37C07106-534E-4195-B4B3-8DA377671BB0}|APIPEGAWAI\\APIPEGAWAI.csproj|c:\\users\\riosa\\source\\repos\\bnites\\employeemanagement\\apipegawai\\apipegawai\\models\\pegawaidetaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{37C07106-534E-4195-B4B3-8DA377671BB0}|APIPEGAWAI\\APIPEGAWAI.csproj|solutionrelative:apipegawai\\models\\pegawaidetaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{37C07106-534E-4195-B4B3-8DA377671BB0}|APIPEGAWAI\\APIPEGAWAI.csproj|c:\\users\\riosa\\source\\repos\\bnites\\employeemanagement\\apipegawai\\apipegawai\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{37C07106-534E-4195-B4B3-8DA377671BB0}|APIPEGAWAI\\APIPEGAWAI.csproj|solutionrelative:apipegawai\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{37C07106-534E-4195-B4B3-8DA377671BB0}|APIPEGAWAI\\APIPEGAWAI.csproj|c:\\users\\riosa\\source\\repos\\bnites\\employeemanagement\\apipegawai\\apipegawai\\models\\cabang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{37C07106-534E-4195-B4B3-8DA377671BB0}|APIPEGAWAI\\APIPEGAWAI.csproj|solutionrelative:apipegawai\\models\\cabang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{37C07106-534E-4195-B4B3-8DA377671BB0}|APIPEGAWAI\\APIPEGAWAI.csproj|c:\\users\\riosa\\source\\repos\\bnites\\employeemanagement\\apipegawai\\apipegawai\\models\\jabatan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{37C07106-534E-4195-B4B3-8DA377671BB0}|APIPEGAWAI\\APIPEGAWAI.csproj|solutionrelative:apipegawai\\models\\jabatan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{37C07106-534E-4195-B4B3-8DA377671BB0}|APIPEGAWAI\\APIPEGAWAI.csproj|c:\\users\\riosa\\source\\repos\\bnites\\employeemanagement\\apipegawai\\apipegawai\\migrations\\20250506025533_createinitial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37C07106-534E-4195-B4B3-8DA377671BB0}|APIPEGAWAI\\APIPEGAWAI.csproj|solutionrelative:apipegawai\\migrations\\20250506025533_createinitial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{37C07106-534E-4195-B4B3-8DA377671BB0}|APIPEGAWAI\\APIPEGAWAI.csproj|c:\\users\\riosa\\source\\repos\\bnites\\employeemanagement\\apipegawai\\apipegawai\\models\\pegawai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{37C07106-534E-4195-B4B3-8DA377671BB0}|APIPEGAWAI\\APIPEGAWAI.csproj|solutionrelative:apipegawai\\models\\pegawai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{37C07106-534E-4195-B4B3-8DA377671BB0}|APIPEGAWAI\\APIPEGAWAI.csproj|c:\\users\\riosa\\source\\repos\\bnites\\employeemanagement\\apipegawai\\apipegawai\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{37C07106-534E-4195-B4B3-8DA377671BB0}|APIPEGAWAI\\APIPEGAWAI.csproj|solutionrelative:apipegawai\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{37C07106-534E-4195-B4B3-8DA377671BB0}|APIPEGAWAI\\APIPEGAWAI.csproj|c:\\users\\riosa\\source\\repos\\bnites\\employeemanagement\\apipegawai\\apipegawai\\models\\jabatan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37C07106-534E-4195-B4B3-8DA377671BB0}|APIPEGAWAI\\APIPEGAWAI.csproj|solutionrelative:apipegawai\\models\\jabatan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37C07106-534E-4195-B4B3-8DA377671BB0}|APIPEGAWAI\\APIPEGAWAI.csproj|c:\\users\\riosa\\source\\repos\\bnites\\employeemanagement\\apipegawai\\apipegawai\\models\\cabang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37C07106-534E-4195-B4B3-8DA377671BB0}|APIPEGAWAI\\APIPEGAWAI.csproj|solutionrelative:apipegawai\\models\\cabang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
@@ -60,110 +48,72 @@
               "RelativeDocumentMoniker": "APIPEGAWAI\\Controllers\\EmployeeController.cs",
               "ToolTip": "C:\\Users\\riosa\\source\\repos\\BNITES\\EmployeeManagement\\APIPEGAWAI\\APIPEGAWAI\\Controllers\\EmployeeController.cs",
               "RelativeToolTip": "APIPEGAWAI\\Controllers\\EmployeeController.cs",
-              "ViewState": "AgIAAEgAAAAAAAAAAAAAAFQAAABgAAAAAAAAAA==",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwC4AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-09T06:27:20.277Z",
-              "IsPinned": true,
+              "WhenOpened": "2025-05-06T02:58:43.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PegawaiService.cs",
+              "DocumentMoniker": "C:\\Users\\riosa\\source\\repos\\BNITES\\EmployeeManagement\\APIPEGAWAI\\APIPEGAWAI\\Services\\PegawaiService.cs",
+              "RelativeDocumentMoniker": "APIPEGAWAI\\Services\\PegawaiService.cs",
+              "ToolTip": "C:\\Users\\riosa\\source\\repos\\BNITES\\EmployeeManagement\\APIPEGAWAI\\APIPEGAWAI\\Services\\PegawaiService.cs*",
+              "RelativeToolTip": "APIPEGAWAI\\Services\\PegawaiService.cs*",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAuwFQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T02:57:38.326Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "IPegawaiService.cs",
-              "DocumentMoniker": "C:\\Users\\riosa\\source\\repos\\BNITES\\EmployeeManagement\\APIPEGAWAI\\APIPEGAWAI\\Services\\IPegawaiService.cs",
-              "RelativeDocumentMoniker": "APIPEGAWAI\\Services\\IPegawaiService.cs",
-              "ToolTip": "C:\\Users\\riosa\\source\\repos\\BNITES\\EmployeeManagement\\APIPEGAWAI\\APIPEGAWAI\\Services\\IPegawaiService.cs",
-              "RelativeToolTip": "APIPEGAWAI\\Services\\IPegawaiService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAAnAAAAAAAAAA==",
+              "Title": "20250506025533_CreateInitial.cs",
+              "DocumentMoniker": "C:\\Users\\riosa\\source\\repos\\BNITES\\EmployeeManagement\\APIPEGAWAI\\APIPEGAWAI\\Migrations\\20250506025533_CreateInitial.cs",
+              "RelativeDocumentMoniker": "APIPEGAWAI\\Migrations\\20250506025533_CreateInitial.cs",
+              "ToolTip": "C:\\Users\\riosa\\source\\repos\\BNITES\\EmployeeManagement\\APIPEGAWAI\\APIPEGAWAI\\Migrations\\20250506025533_CreateInitial.cs",
+              "RelativeToolTip": "APIPEGAWAI\\Migrations\\20250506025533_CreateInitial.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAQwDEAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-09T08:40:51.801Z",
-              "IsPinned": true
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "PegawaiService.cs",
-              "DocumentMoniker": "C:\\Users\\riosa\\source\\repos\\BNITES\\EmployeeManagement\\APIPEGAWAI\\APIPEGAWAI\\Services\\PegawaiService.cs",
-              "RelativeDocumentMoniker": "APIPEGAWAI\\Services\\PegawaiService.cs",
-              "ToolTip": "C:\\Users\\riosa\\source\\repos\\BNITES\\EmployeeManagement\\APIPEGAWAI\\APIPEGAWAI\\Services\\PegawaiService.cs",
-              "RelativeToolTip": "APIPEGAWAI\\Services\\PegawaiService.cs",
-              "ViewState": "AgIAAI0AAAAAAAAAAAAowJoAAAA0AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-09T08:41:14.827Z",
-              "IsPinned": true
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "WeatherForecastController.cs",
-              "DocumentMoniker": "C:\\Users\\riosa\\source\\repos\\BNITES\\EmployeeManagement\\APIPEGAWAI\\APIPEGAWAI\\Controllers\\WeatherForecastController.cs",
-              "RelativeDocumentMoniker": "APIPEGAWAI\\Controllers\\WeatherForecastController.cs",
-              "ToolTip": "C:\\Users\\riosa\\source\\repos\\BNITES\\EmployeeManagement\\APIPEGAWAI\\APIPEGAWAI\\Controllers\\WeatherForecastController.cs",
-              "RelativeToolTip": "APIPEGAWAI\\Controllers\\WeatherForecastController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-10T03:34:12.367Z",
+              "WhenOpened": "2025-05-06T02:55:43.495Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\riosa\\source\\repos\\BNITES\\EmployeeManagement\\APIPEGAWAI\\APIPEGAWAI\\Program.cs",
-              "RelativeDocumentMoniker": "APIPEGAWAI\\Program.cs",
-              "ToolTip": "C:\\Users\\riosa\\source\\repos\\BNITES\\EmployeeManagement\\APIPEGAWAI\\APIPEGAWAI\\Program.cs",
-              "RelativeToolTip": "APIPEGAWAI\\Program.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB4AAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-09T10:21:41.109Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 2,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\Users\\riosa\\source\\repos\\BNITES\\EmployeeManagement\\APIPEGAWAI\\APIPEGAWAI\\Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "APIPEGAWAI\\Data\\AppDbContext.cs",
               "ToolTip": "C:\\Users\\riosa\\source\\repos\\BNITES\\EmployeeManagement\\APIPEGAWAI\\APIPEGAWAI\\Data\\AppDbContext.cs",
               "RelativeToolTip": "APIPEGAWAI\\Data\\AppDbContext.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-09T06:14:15.589Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "PegawaiDetailDto.cs",
-              "DocumentMoniker": "C:\\Users\\riosa\\source\\repos\\BNITES\\EmployeeManagement\\APIPEGAWAI\\APIPEGAWAI\\Models\\PegawaiDetailDto.cs",
-              "RelativeDocumentMoniker": "APIPEGAWAI\\Models\\PegawaiDetailDto.cs",
-              "ToolTip": "C:\\Users\\riosa\\source\\repos\\BNITES\\EmployeeManagement\\APIPEGAWAI\\APIPEGAWAI\\Models\\PegawaiDetailDto.cs",
-              "RelativeToolTip": "APIPEGAWAI\\Models\\PegawaiDetailDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-09T06:13:18.116Z",
+              "WhenOpened": "2025-04-09T06:14:15.589Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 4,
               "Title": "Pegawai.cs",
               "DocumentMoniker": "C:\\Users\\riosa\\source\\repos\\BNITES\\EmployeeManagement\\APIPEGAWAI\\APIPEGAWAI\\Models\\Pegawai.cs",
               "RelativeDocumentMoniker": "APIPEGAWAI\\Models\\Pegawai.cs",
               "ToolTip": "C:\\Users\\riosa\\source\\repos\\BNITES\\EmployeeManagement\\APIPEGAWAI\\APIPEGAWAI\\Models\\Pegawai.cs",
               "RelativeToolTip": "APIPEGAWAI\\Models\\Pegawai.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA8AAAAvAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-09T06:12:39.046Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 5,
               "Title": "Jabatan.cs",
               "DocumentMoniker": "C:\\Users\\riosa\\source\\repos\\BNITES\\EmployeeManagement\\APIPEGAWAI\\APIPEGAWAI\\Models\\Jabatan.cs",
               "RelativeDocumentMoniker": "APIPEGAWAI\\Models\\Jabatan.cs",
               "ToolTip": "C:\\Users\\riosa\\source\\repos\\BNITES\\EmployeeManagement\\APIPEGAWAI\\APIPEGAWAI\\Models\\Jabatan.cs",
               "RelativeToolTip": "APIPEGAWAI\\Models\\Jabatan.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-09T06:11:39.265Z",
               "EditorCaption": ""
@@ -176,7 +126,7 @@
               "RelativeDocumentMoniker": "APIPEGAWAI\\Models\\Cabang.cs",
               "ToolTip": "C:\\Users\\riosa\\source\\repos\\BNITES\\EmployeeManagement\\APIPEGAWAI\\APIPEGAWAI\\Models\\Cabang.cs",
               "RelativeToolTip": "APIPEGAWAI\\Models\\Cabang.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-09T06:07:25.281Z",
               "EditorCaption": ""
