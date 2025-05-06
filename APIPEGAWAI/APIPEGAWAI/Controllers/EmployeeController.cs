@@ -1,5 +1,7 @@
 ﻿using APIPEGAWAI.Data;
 using APIPEGAWAI.Models;
+using APIPEGAWAI.Models.Request;
+using APIPEGAWAI.Models.Response;
 using APIPEGAWAI.Services;
 using Microsoft.AspNetCore.Mvc;
 using OfficeOpenXml;
@@ -82,7 +84,7 @@ namespace APIPEGAWAI.Controllers
         }
 
         [HttpPut("UpdatePegawai/{id}")]
-        public async Task<ActionResult<List<Pegawai>>> UpdatePegawai(string id, Pegawai request)
+        public async Task<ActionResult<Pegawai>> UpdatePegawai(string id, PegawaiRequest request)
         {
             try
             {

@@ -26,13 +26,13 @@ namespace APIPEGAWAI.Data
 
             modelBuilder.Entity<Pegawai>()
         .HasOne(p => p.Cabang)
-        .WithMany(c => c.Pegawais)
+        .WithMany()
         .HasForeignKey(p => p.KodeCabang)
         .OnDelete(DeleteBehavior.Restrict);
 
             modelBuilder.Entity<Pegawai>()
                 .HasOne(p => p.Jabatan)
-                .WithMany(j => j.Pegawais)
+                .WithMany()
                 .HasForeignKey(p => p.KodeJabatan)
                 .OnDelete(DeleteBehavior.Restrict);
         }

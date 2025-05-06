@@ -1,5 +1,7 @@
 ﻿using APIPEGAWAI.Data;
 using APIPEGAWAI.Models;
+using APIPEGAWAI.Models.Request;
+using APIPEGAWAI.Models.Response;
 using Microsoft.EntityFrameworkCore;
 using OfficeOpenXml;
 using System.Data;
@@ -158,10 +160,10 @@ namespace APIPEGAWAI.Services
             return await _context.Pegawais.ToListAsync();
         }
 
-        public async Task<Pegawai> UpdatePegawai(string id, Pegawai request)
+        public async Task<Pegawai?> UpdatePegawai(string id, PegawaiRequest request)
         {
-            var result = await _context.Pegawais.FindAsync(id);
-            if (result == null)
+            var pegawai = await _context.Pegawais.FindAsync(id);
+            if (pegawai == null)
                 throw new ArgumentException("Id tidak ditemukan"); 
 
             var tanggalAwal = DateTime.Parse(request.TanggalMulaiKontrak.ToString());
@@ -181,14 +183,14 @@ namespace APIPEGAWAI.Services
             }
 
 
-            result.NamaPegawai = request.NamaPegawai;
-            result.KodeJabatan = request.KodeJabatan;
-            result.KodeCabang = request.KodeCabang;
-            result.TanggalMulaiKontrak = request.TanggalMulaiKontrak;
-            result.TanggalHabisKontrak = request.TanggalHabisKontrak;
+            pegawai.NamaPegawai = request.NamaPegawai;
+            pegawai.KodeJabatan = request.KodeJabatan;
+            pegawai.KodeCabang = request.KodeCabang;
+            pegawai.TanggalMulaiKontrak = request.TanggalMulaiKontrak;
+            pegawai.TanggalHabisKontrak = request.TanggalHabisKontrak;
 
             await _context.SaveChangesAsync();
-            return result;
+            return pegawai;
         }
 
         public async Task<Pegawai?> GetSinglePegawai(string id)

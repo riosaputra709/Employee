@@ -1,4 +1,4 @@
-﻿namespace APIPEGAWAI.Models
+﻿namespace APIPEGAWAI.Models.Response
 {
     public class PegawaiDetailDto
     {

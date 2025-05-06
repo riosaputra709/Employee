@@ -8,6 +8,5 @@ namespace APIPEGAWAI.Models
         public string KodeCabang { get; set; }
         public string NamaCabang { get; set; }
 
-        public ICollection<Pegawai> Pegawais { get; set; }
     }
 }
